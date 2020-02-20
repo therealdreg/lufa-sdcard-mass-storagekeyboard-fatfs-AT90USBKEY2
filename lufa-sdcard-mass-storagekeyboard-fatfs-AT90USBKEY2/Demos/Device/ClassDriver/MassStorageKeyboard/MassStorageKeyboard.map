@@ -1,0 +1,1750 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              obj/mmc_avr_spi.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              obj/MassStorageKeyboard.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+                              obj/RNDISClassDevice.o (memcpy_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+                              obj/CDCClassDevice.o (strlen_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+                              obj/HIDClassDevice.o (memcmp)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                              obj/HIDClassDevice.o (memcpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+                              obj/HIDClassDevice.o (memset)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                              obj/Serial_AVR8.o (__iob)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+                              obj/MassStorageKeyboard.o (printf_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                              obj/MassStorageKeyboard.o (puts)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o) (vfprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+                              obj/EndpointStream_AVR8.o (__eerd_byte_usb1287)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+                              obj/EndpointStream_AVR8.o (__eeupd_byte_usb1287)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (fputc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+USB_IsInitialized   0x1               obj/USBTask.o
+USB_DeviceState     0x1               obj/USBTask.o
+USB_Device_ConfigurationNumber
+                    0x1               obj/DeviceStandardReq.o
+Timer               0x2               obj/MassStorageKeyboard.o
+USB_Device_CurrentlySelfPowered
+                    0x1               obj/DeviceStandardReq.o
+USARTSerialStream   0xe               obj/Serial_AVR8.o
+USB_ControlRequest  0x8               obj/USBTask.o
+USB_Device_RemoteWakeupEnabled
+                    0x1               obj/DeviceStandardReq.o
+__iob               0x6               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+ .text          0x00000000        0x0 obj/MassStorageKeyboard.o
+ .text          0x00000000        0x0 obj/Descriptors.o
+ .data          0x00000000        0x0 obj/Descriptors.o
+ .bss           0x00000000        0x0 obj/Descriptors.o
+ .text          0x00000000        0x0 obj/SDCardManager.o
+ .data          0x00000000        0x0 obj/SDCardManager.o
+ .text          0x00000000        0x0 obj/diskio.o
+ .data          0x00000000        0x0 obj/diskio.o
+ .bss           0x00000000        0x0 obj/diskio.o
+ .text.disk_status
+                0x00000000        0x0 obj/diskio.o
+ .text          0x00000000        0x0 obj/mmc_avr_spi.o
+ .text.mmc_disk_status
+                0x00000000        0x0 obj/mmc_avr_spi.o
+ .text          0x00000000        0x0 obj/SCSI.o
+ .bss           0x00000000        0x0 obj/SCSI.o
+ .text          0x00000000        0x0 obj/Serial_AVR8.o
+ .data          0x00000000        0x0 obj/Serial_AVR8.o
+ .bss           0x00000000        0x0 obj/Serial_AVR8.o
+ .text.Serial_getchar_Blocking
+                0x00000000        0x0 obj/Serial_AVR8.o
+ .text.Serial_SendString_P
+                0x00000000        0x0 obj/Serial_AVR8.o
+ .text.Serial_SendData
+                0x00000000        0x0 obj/Serial_AVR8.o
+ .text.Serial_CreateBlockingStream
+                0x00000000        0x0 obj/Serial_AVR8.o
+ .text          0x00000000        0x0 obj/HIDParser.o
+ .data          0x00000000        0x0 obj/HIDParser.o
+ .bss           0x00000000        0x0 obj/HIDParser.o
+ .text.USB_GetHIDReportItemInfo
+                0x00000000        0x0 obj/HIDParser.o
+ .text.USB_SetHIDReportItemInfo
+                0x00000000        0x0 obj/HIDParser.o
+ .text.USB_GetHIDReportSize
+                0x00000000        0x0 obj/HIDParser.o
+ .text.USB_ProcessHIDReport
+                0x00000000        0x0 obj/HIDParser.o
+ .text          0x00000000        0x0 obj/Device_AVR8.o
+ .data          0x00000000        0x0 obj/Device_AVR8.o
+ .bss           0x00000000        0x0 obj/Device_AVR8.o
+ .text.USB_Device_SendRemoteWakeup
+                0x00000000        0x0 obj/Device_AVR8.o
+ .text          0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .data          0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .bss           0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_Stream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_Stream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_PStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_EStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_EStream_LE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_EStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_EStream_LE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_EStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_EStream_LE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_EStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_EStream_LE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_PStream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Write_PStream_LE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Stream_BE
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text.Endpoint_Discard_Stream
+                0x00000000        0x0 obj/EndpointStream_AVR8.o
+ .text          0x00000000        0x0 obj/Endpoint_AVR8.o
+ .data          0x00000000        0x0 obj/Endpoint_AVR8.o
+ .bss           0x00000000        0x0 obj/Endpoint_AVR8.o
+ .text.Endpoint_ClearEndpoints
+                0x00000000        0x0 obj/Endpoint_AVR8.o
+ .text          0x00000000        0x0 obj/Host_AVR8.o
+ .data          0x00000000        0x0 obj/Host_AVR8.o
+ .bss           0x00000000        0x0 obj/Host_AVR8.o
+ .text          0x00000000        0x0 obj/PipeStream_AVR8.o
+ .data          0x00000000        0x0 obj/PipeStream_AVR8.o
+ .bss           0x00000000        0x0 obj/PipeStream_AVR8.o
+ .text          0x00000000        0x0 obj/Pipe_AVR8.o
+ .data          0x00000000        0x0 obj/Pipe_AVR8.o
+ .bss           0x00000000        0x0 obj/Pipe_AVR8.o
+ .text          0x00000000        0x0 obj/USBController_AVR8.o
+ .data          0x00000000        0x0 obj/USBController_AVR8.o
+ .bss           0x00000000        0x0 obj/USBController_AVR8.o
+ .text.USB_Disable
+                0x00000000        0x0 obj/USBController_AVR8.o
+ .text          0x00000000        0x0 obj/USBInterrupt_AVR8.o
+ .data          0x00000000        0x0 obj/USBInterrupt_AVR8.o
+ .bss           0x00000000        0x0 obj/USBInterrupt_AVR8.o
+ .text          0x00000000        0x0 obj/ConfigDescriptors.o
+ .data          0x00000000        0x0 obj/ConfigDescriptors.o
+ .bss           0x00000000        0x0 obj/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfType
+                0x00000000        0x0 obj/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfTypeBefore
+                0x00000000        0x0 obj/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfTypeAfter
+                0x00000000        0x0 obj/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorComp
+                0x00000000        0x0 obj/ConfigDescriptors.o
+ .text          0x00000000        0x0 obj/DeviceStandardReq.o
+ .data          0x00000000        0x0 obj/DeviceStandardReq.o
+ .bss           0x00000000        0x0 obj/DeviceStandardReq.o
+ .text          0x00000000        0x0 obj/Events.o
+ .data          0x00000000        0x0 obj/Events.o
+ .bss           0x00000000        0x0 obj/Events.o
+ .text          0x00000000        0x0 obj/HostStandardReq.o
+ .data          0x00000000        0x0 obj/HostStandardReq.o
+ .bss           0x00000000        0x0 obj/HostStandardReq.o
+ .text          0x00000000        0x0 obj/USBTask.o
+ .data          0x00000000        0x0 obj/USBTask.o
+ .bss           0x00000000        0x0 obj/USBTask.o
+ .text          0x00000000        0x0 obj/AudioClassDevice.o
+ .data          0x00000000        0x0 obj/AudioClassDevice.o
+ .bss           0x00000000        0x0 obj/AudioClassDevice.o
+ .text.Audio_Device_Event_Stub
+                0x00000000        0x0 obj/AudioClassDevice.o
+ .text.Audio_Device_ConfigureEndpoints
+                0x00000000        0x0 obj/AudioClassDevice.o
+ .text.Audio_Device_ProcessControlRequest
+                0x00000000        0x0 obj/AudioClassDevice.o
+ .text          0x00000000        0x0 obj/CDCClassDevice.o
+ .data          0x00000000        0x0 obj/CDCClassDevice.o
+ .bss           0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_BytesReceived
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_ReceiveByte
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_CreateStream
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_CreateBlockingStream
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_getchar
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_Event_Stub
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendControlLineStateChange
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendData
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_Flush
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_USBTask
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_getchar_Blocking
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendByte
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_putchar
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendData_P
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendString_P
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_SendString
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_ConfigureEndpoints
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text.CDC_Device_ProcessControlRequest
+                0x00000000        0x0 obj/CDCClassDevice.o
+ .text          0x00000000        0x0 obj/HIDClassDevice.o
+ .data          0x00000000        0x0 obj/HIDClassDevice.o
+ .bss           0x00000000        0x0 obj/HIDClassDevice.o
+ .text          0x00000000        0x0 obj/MassStorageClassDevice.o
+ .data          0x00000000        0x0 obj/MassStorageClassDevice.o
+ .bss           0x00000000        0x0 obj/MassStorageClassDevice.o
+ .text          0x00000000        0x0 obj/MIDIClassDevice.o
+ .data          0x00000000        0x0 obj/MIDIClassDevice.o
+ .bss           0x00000000        0x0 obj/MIDIClassDevice.o
+ .text.MIDI_Device_ReceiveEventPacket
+                0x00000000        0x0 obj/MIDIClassDevice.o
+ .text.MIDI_Device_Flush
+                0x00000000        0x0 obj/MIDIClassDevice.o
+ .text.MIDI_Device_USBTask
+                0x00000000        0x0 obj/MIDIClassDevice.o
+ .text.MIDI_Device_SendEventPacket
+                0x00000000        0x0 obj/MIDIClassDevice.o
+ .text.MIDI_Device_ConfigureEndpoints
+                0x00000000        0x0 obj/MIDIClassDevice.o
+ .text          0x00000000        0x0 obj/PrinterClassDevice.o
+ .data          0x00000000        0x0 obj/PrinterClassDevice.o
+ .bss           0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_BytesReceived
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_ReceiveByte
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_CreateStream
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_CreateBlockingStream
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_getchar
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_Event_Stub
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_Flush
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_USBTask
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_getchar_Blocking
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_SendByte
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_putchar
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_SendData
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_SendString
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_ConfigureEndpoints
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text.PRNT_Device_ProcessControlRequest
+                0x00000000        0x0 obj/PrinterClassDevice.o
+ .text          0x00000000        0x0 obj/RNDISClassDevice.o
+ .data          0x00000000        0x0 obj/RNDISClassDevice.o
+ .bss           0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_IsPacketReceived
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_SendPacket
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_USBTask
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_ReadPacket
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_ConfigureEndpoints
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .text.RNDIS_Device_ProcessControlRequest
+                0x00000000        0x0 obj/RNDISClassDevice.o
+ .progmem.data  0x00000000        0x0 obj/RNDISClassDevice.o
+ .text          0x00000000        0x0 obj/AndroidAccessoryClassHost.o
+ .data          0x00000000        0x0 obj/AndroidAccessoryClassHost.o
+ .bss           0x00000000        0x0 obj/AndroidAccessoryClassHost.o
+ .text          0x00000000        0x0 obj/AudioClassHost.o
+ .data          0x00000000        0x0 obj/AudioClassHost.o
+ .bss           0x00000000        0x0 obj/AudioClassHost.o
+ .text          0x00000000        0x0 obj/CDCClassHost.o
+ .data          0x00000000        0x0 obj/CDCClassHost.o
+ .bss           0x00000000        0x0 obj/CDCClassHost.o
+ .text          0x00000000        0x0 obj/HIDClassHost.o
+ .data          0x00000000        0x0 obj/HIDClassHost.o
+ .bss           0x00000000        0x0 obj/HIDClassHost.o
+ .text          0x00000000        0x0 obj/MassStorageClassHost.o
+ .data          0x00000000        0x0 obj/MassStorageClassHost.o
+ .bss           0x00000000        0x0 obj/MassStorageClassHost.o
+ .text          0x00000000        0x0 obj/MIDIClassHost.o
+ .data          0x00000000        0x0 obj/MIDIClassHost.o
+ .bss           0x00000000        0x0 obj/MIDIClassHost.o
+ .text          0x00000000        0x0 obj/PrinterClassHost.o
+ .data          0x00000000        0x0 obj/PrinterClassHost.o
+ .bss           0x00000000        0x0 obj/PrinterClassHost.o
+ .text          0x00000000        0x0 obj/RNDISClassHost.o
+ .data          0x00000000        0x0 obj/RNDISClassHost.o
+ .bss           0x00000000        0x0 obj/RNDISClassHost.o
+ .text          0x00000000        0x0 obj/StillImageClassHost.o
+ .data          0x00000000        0x0 obj/StillImageClassHost.o
+ .bss           0x00000000        0x0 obj/StillImageClassHost.o
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .text.avr-libc
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+ .text.avr-libc
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+ .text.avr-libc
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+LOAD obj/MassStorageKeyboard.o
+LOAD obj/Descriptors.o
+LOAD obj/SDCardManager.o
+LOAD obj/diskio.o
+LOAD obj/mmc_avr_spi.o
+LOAD obj/SCSI.o
+LOAD obj/Serial_AVR8.o
+LOAD obj/HIDParser.o
+LOAD obj/Device_AVR8.o
+LOAD obj/EndpointStream_AVR8.o
+LOAD obj/Endpoint_AVR8.o
+LOAD obj/Host_AVR8.o
+LOAD obj/PipeStream_AVR8.o
+LOAD obj/Pipe_AVR8.o
+LOAD obj/USBController_AVR8.o
+LOAD obj/USBInterrupt_AVR8.o
+LOAD obj/ConfigDescriptors.o
+LOAD obj/DeviceStandardReq.o
+LOAD obj/Events.o
+LOAD obj/HostStandardReq.o
+LOAD obj/USBTask.o
+LOAD obj/AudioClassDevice.o
+LOAD obj/CDCClassDevice.o
+LOAD obj/HIDClassDevice.o
+LOAD obj/MassStorageClassDevice.o
+LOAD obj/MIDIClassDevice.o
+LOAD obj/PrinterClassDevice.o
+LOAD obj/RNDISClassDevice.o
+LOAD obj/AndroidAccessoryClassHost.o
+LOAD obj/AudioClassHost.o
+LOAD obj/CDCClassHost.o
+LOAD obj/HIDClassHost.o
+LOAD obj/MassStorageClassHost.o
+LOAD obj/MIDIClassHost.o
+LOAD obj/PrinterClassHost.o
+LOAD obj/RNDISClassHost.o
+LOAD obj/StillImageClassHost.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3262
+ *(.vectors)
+ .vectors       0x00000000       0x98 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000098      0x158 obj/MassStorageKeyboard.o
+ .progmem.data  0x000001f0       0xf3 obj/Descriptors.o
+                0x000001f0                KeyboardReport
+                0x0000027f                ManufacturerString
+                0x0000027b                LanguageString
+                0x00000230                DeviceDescriptor
+                0x00000299                ProductString
+                0x00000242                ConfigurationDescriptor
+ .progmem.data  0x000002e3       0x63 obj/SDCardManager.o
+                0x00000346                . = ALIGN (0x2)
+                0x00000346                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000346        0x0 linker stubs
+ *(.trampolines*)
+                0x00000346                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000346                __ctors_start = .
+ *(.ctors)
+                0x00000346                __ctors_end = .
+                0x00000346                __dtors_start = .
+ *(.dtors)
+                0x00000346                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000346        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+                0x00000346                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000346        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000352       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+                0x00000352                __do_copy_data
+ .init4         0x0000036c       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x0000036c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000037c        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+ *(.init9)
+ *(.text)
+ .text          0x00000382        0x2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+                0x00000382                __vector_22
+                0x00000382                __vector_28
+                0x00000382                __vector_1
+                0x00000382                __vector_32
+                0x00000382                __vector_34
+                0x00000382                __vector_24
+                0x00000382                __vector_12
+                0x00000382                __bad_interrupt
+                0x00000382                __vector_6
+                0x00000382                __vector_31
+                0x00000382                __vector_35
+                0x00000382                __vector_3
+                0x00000382                __vector_23
+                0x00000382                __vector_30
+                0x00000382                __vector_25
+                0x00000382                __vector_13
+                0x00000382                __vector_19
+                0x00000382                __vector_7
+                0x00000382                __vector_27
+                0x00000382                __vector_5
+                0x00000382                __vector_33
+                0x00000382                __vector_37
+                0x00000382                __vector_4
+                0x00000382                __vector_9
+                0x00000382                __vector_2
+                0x00000382                __vector_21
+                0x00000382                __vector_15
+                0x00000382                __vector_36
+                0x00000382                __vector_29
+                0x00000382                __vector_8
+                0x00000382                __vector_26
+                0x00000382                __vector_14
+                0x00000382                __vector_16
+                0x00000382                __vector_18
+                0x00000382                __vector_20
+                0x00000384                . = ALIGN (0x2)
+ *(.text.*)
+ .text.EVENT_USB_Device_StartOfFrame
+                0x00000384       0x18 obj/MassStorageKeyboard.o
+                0x00000384                EVENT_USB_Device_StartOfFrame
+ .text.CALLBACK_HID_Device_CreateHIDReport
+                0x0000039c       0x66 obj/MassStorageKeyboard.o
+                0x0000039c                CALLBACK_HID_Device_CreateHIDReport
+ .text.CALLBACK_HID_Device_ProcessHIDReport
+                0x00000402       0x1c obj/MassStorageKeyboard.o
+                0x00000402                CALLBACK_HID_Device_ProcessHIDReport
+ .text.CALLBACK_MS_Device_SCSICommandReceived
+                0x0000041e       0x16 obj/MassStorageKeyboard.o
+                0x0000041e                CALLBACK_MS_Device_SCSICommandReceived
+ .text.EVENT_USB_Device_ControlRequest
+                0x00000434       0x10 obj/MassStorageKeyboard.o
+                0x00000434                EVENT_USB_Device_ControlRequest
+ .text.EVENT_USB_Device_Disconnect
+                0x00000444       0x20 obj/MassStorageKeyboard.o
+                0x00000444                EVENT_USB_Device_Disconnect
+ .text.EVENT_USB_Device_Connect
+                0x00000464       0x20 obj/MassStorageKeyboard.o
+                0x00000464                EVENT_USB_Device_Connect
+ .text.EVENT_USB_Device_ConfigurationChanged
+                0x00000484       0x56 obj/MassStorageKeyboard.o
+                0x00000484                EVENT_USB_Device_ConfigurationChanged
+ .text.SetupHardware
+                0x000004da       0xe0 obj/MassStorageKeyboard.o
+                0x000004da                SetupHardware
+ .text.__vector_17
+                0x000005ba       0x60 obj/MassStorageKeyboard.o
+                0x000005ba                __vector_17
+ .text.main     0x0000061a       0x22 obj/MassStorageKeyboard.o
+                0x0000061a                main
+ .text.CALLBACK_USB_GetDescriptor
+                0x0000063c       0x80 obj/Descriptors.o
+                0x0000063c                CALLBACK_USB_GetDescriptor
+ .text.SDCardManager_CheckDataflashOperation
+                0x000006bc        0x4 obj/SDCardManager.o
+                0x000006bc                SDCardManager_CheckDataflashOperation
+ .text.SDCardManager_WriteBlockHandler
+                0x000006c0       0x92 obj/SDCardManager.o
+                0x000006c0                SDCardManager_WriteBlockHandler
+ .text.SDCardManager_ReadBlocks
+                0x00000752      0x146 obj/SDCardManager.o
+                0x00000752                SDCardManager_ReadBlocks
+ .text.SDCardManager_WriteBlocks
+                0x00000898       0xdc obj/SDCardManager.o
+                0x00000898                SDCardManager_WriteBlocks
+ .text.SDCardManager_GetNbBlocks
+                0x00000974       0xa2 obj/SDCardManager.o
+                0x00000974                SDCardManager_GetNbBlocks
+ .text.SDCardManager_Init
+                0x00000a16       0x54 obj/SDCardManager.o
+                0x00000a16                SDCardManager_Init
+ .text.disk_timerproc
+                0x00000a6a        0x4 obj/diskio.o
+                0x00000a6a                disk_timerproc
+ .text.disk_ioctl
+                0x00000a6e        0xe obj/diskio.o
+                0x00000a6e                disk_ioctl
+ .text.disk_write
+                0x00000a7c       0x1c obj/diskio.o
+                0x00000a7c                disk_write
+ .text.disk_read
+                0x00000a98       0x1c obj/diskio.o
+                0x00000a98                disk_read
+ .text.disk_initialize
+                0x00000ab4        0xa obj/diskio.o
+                0x00000ab4                disk_initialize
+ .text.power_off
+                0x00000abe        0x8 obj/mmc_avr_spi.o
+ .text.xchg_spi
+                0x00000ac6        0xc obj/mmc_avr_spi.o
+ .text.wait_ready
+                0x00000ad2       0x2e obj/mmc_avr_spi.o
+ .text.deselect
+                0x00000b00        0x6 obj/mmc_avr_spi.o
+ .text.select   0x00000b06       0x20 obj/mmc_avr_spi.o
+ .text.rcvr_datablock
+                0x00000b26       0x6a obj/mmc_avr_spi.o
+ .text.xmit_datablock
+                0x00000b90       0x68 obj/mmc_avr_spi.o
+ .text.send_cmd
+                0x00000bf8       0x9c obj/mmc_avr_spi.o
+ .text.mmc_disk_initialize
+                0x00000c94      0x13c obj/mmc_avr_spi.o
+                0x00000c94                mmc_disk_initialize
+ .text.mmc_disk_read
+                0x00000dd0       0x90 obj/mmc_avr_spi.o
+                0x00000dd0                mmc_disk_read
+ .text.mmc_disk_write
+                0x00000e60       0xd6 obj/mmc_avr_spi.o
+                0x00000e60                mmc_disk_write
+ .text.mmc_disk_ioctl
+                0x00000f36      0x5b2 obj/mmc_avr_spi.o
+                0x00000f36                mmc_disk_ioctl
+ .text.mmc_disk_timerproc
+                0x000014e8       0x22 obj/mmc_avr_spi.o
+                0x000014e8                mmc_disk_timerproc
+ .text.SCSI_Command_ReadWrite_10
+                0x0000150a       0xa8 obj/SCSI.o
+ .text.SCSI_DecodeSCSICommand
+                0x000015b2      0x252 obj/SCSI.o
+                0x000015b2                SCSI_DecodeSCSICommand
+ .text.Serial_putchar
+                0x00001804       0x14 obj/Serial_AVR8.o
+                0x00001804                Serial_putchar
+ .text.Serial_getchar
+                0x00001818       0x28 obj/Serial_AVR8.o
+                0x00001818                Serial_getchar
+ .text.Serial_SendString
+                0x00001840       0x1a obj/Serial_AVR8.o
+                0x00001840                Serial_SendString
+ .text.Serial_CreateStream
+                0x0000185a       0x3c obj/Serial_AVR8.o
+                0x0000185a                Serial_CreateStream
+ .text.Endpoint_Write_Control_Stream_LE
+                0x00001896       0xc8 obj/EndpointStream_AVR8.o
+                0x00001896                Endpoint_Write_Control_Stream_LE
+ .text.Endpoint_Read_Control_Stream_LE
+                0x0000195e       0x82 obj/EndpointStream_AVR8.o
+                0x0000195e                Endpoint_Read_Control_Stream_LE
+ .text.Endpoint_Write_Control_PStream_LE
+                0x000019e0       0xca obj/EndpointStream_AVR8.o
+                0x000019e0                Endpoint_Write_Control_PStream_LE
+ .text.Endpoint_Read_Stream_LE
+                0x00001aaa       0xa2 obj/EndpointStream_AVR8.o
+                0x00001aaa                Endpoint_Read_Stream_LE
+ .text.Endpoint_Write_Stream_BE
+                0x00001b4c       0xa2 obj/EndpointStream_AVR8.o
+                0x00001b4c                Endpoint_Write_Stream_BE
+ .text.Endpoint_Write_Stream_LE
+                0x00001bee       0xa2 obj/EndpointStream_AVR8.o
+                0x00001bee                Endpoint_Write_Stream_LE
+ .text.Endpoint_Null_Stream
+                0x00001c90       0x84 obj/EndpointStream_AVR8.o
+                0x00001c90                Endpoint_Null_Stream
+ .text.Endpoint_ConfigureEndpoint_Prv
+                0x00001d14       0x70 obj/Endpoint_AVR8.o
+                0x00001d14                Endpoint_ConfigureEndpoint_Prv
+ .text.Endpoint_ConfigureEndpointTable
+                0x00001d84       0x78 obj/Endpoint_AVR8.o
+                0x00001d84                Endpoint_ConfigureEndpointTable
+ .text.Endpoint_ClearStatusStage
+                0x00001dfc       0x42 obj/Endpoint_AVR8.o
+                0x00001dfc                Endpoint_ClearStatusStage
+ .text.Endpoint_WaitUntilReady
+                0x00001e3e       0x64 obj/Endpoint_AVR8.o
+                0x00001e3e                Endpoint_WaitUntilReady
+ .text.USB_ResetInterface
+                0x00001ea2       0x92 obj/USBController_AVR8.o
+                0x00001ea2                USB_ResetInterface
+ .text.USB_Init
+                0x00001f34       0x1c obj/USBController_AVR8.o
+                0x00001f34                USB_Init
+ .text.USB_INT_DisableAllInterrupts
+                0x00001f50       0x10 obj/USBInterrupt_AVR8.o
+                0x00001f50                USB_INT_DisableAllInterrupts
+ .text.USB_INT_ClearAllInterrupts
+                0x00001f60        0xa obj/USBInterrupt_AVR8.o
+                0x00001f60                USB_INT_ClearAllInterrupts
+ .text.__vector_11
+                0x00001f6a       0x7e obj/USBInterrupt_AVR8.o
+                0x00001f6a                __vector_11
+ .text.__vector_10
+                0x00001fe8      0x1a4 obj/USBInterrupt_AVR8.o
+                0x00001fe8                __vector_10
+ .text.USB_Device_ProcessControlRequest
+                0x0000218c      0x2e6 obj/DeviceStandardReq.o
+                0x0000218c                USB_Device_ProcessControlRequest
+ .text.USB_Event_Stub
+                0x00002472        0x2 obj/Events.o
+                0x00002472                EVENT_USB_Device_WakeUp
+                0x00002472                USB_Event_Stub
+                0x00002472                EVENT_USB_Device_Suspend
+                0x00002472                EVENT_USB_Device_Reset
+ .text.USB_USBTask
+                0x00002474       0x2a obj/USBTask.o
+                0x00002474                USB_USBTask
+ .text.HID_Device_USBTask
+                0x0000249e      0x19e obj/HIDClassDevice.o
+                0x0000249e                HID_Device_USBTask
+ .text.HID_Device_ConfigureEndpoints
+                0x0000263c       0x42 obj/HIDClassDevice.o
+                0x0000263c                HID_Device_ConfigureEndpoints
+ .text.HID_Device_ProcessControlRequest
+                0x0000267e      0x294 obj/HIDClassDevice.o
+                0x0000267e                HID_Device_ProcessControlRequest
+ .text.MS_Device_USBTask
+                0x00002912      0x258 obj/MassStorageClassDevice.o
+                0x00002912                MS_Device_USBTask
+ .text.MS_Device_ConfigureEndpoints
+                0x00002b6a       0x38 obj/MassStorageClassDevice.o
+                0x00002b6a                MS_Device_ConfigureEndpoints
+ .text.MS_Device_ProcessControlRequest
+                0x00002ba2       0x7a obj/MassStorageClassDevice.o
+                0x00002ba2                MS_Device_ProcessControlRequest
+ .text.libgcc   0x00002c1c       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x00002c1c                __udivmodhi4
+ .text.avr-libc
+                0x00002c44       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+                0x00002c44                memcmp
+ .text.avr-libc
+                0x00002c5e       0x12 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                0x00002c5e                memcpy
+ .text.avr-libc
+                0x00002c70        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+                0x00002c70                memset
+ .text.avr-libc
+                0x00002c7e       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+                0x00002c7e                printf_P
+ .text.avr-libc
+                0x00002cc2       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x00002cc2                puts
+ .text.avr-libc
+                0x00002d2c      0x3f2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                0x00002d2c                vfprintf
+ .text.avr-libc
+                0x0000311e       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x0000311e                strnlen_P
+ .text.avr-libc
+                0x00003134       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00003134                strnlen
+ .text.avr-libc
+                0x0000314a       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x0000314a                fputc
+ .text.avr-libc
+                0x000031a2       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x000031a2                __ultoa_invert
+                0x0000325e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000325e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x0000325e                exit
+                0x0000325e                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000325e        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003262                _etext = .
+
+.data           0x00800100      0x154 load address 0x00003262
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100      0x11c obj/MassStorageKeyboard.o
+                0x008001d3                Disk_MS_Interface
+                0x0080020c                Keyboard_HID_Interface
+ .data          0x0080021c        0x1 obj/mmc_avr_spi.o
+ .data          0x0080021d       0x36 obj/SCSI.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800254                . = ALIGN (0x2)
+ *fill*         0x00800253        0x1 00
+                0x00800254                _edata = .
+                0x00800254                PROVIDE (__data_end, .)
+
+.bss            0x00800254      0x432
+                0x00800254                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800254        0x8 obj/MassStorageKeyboard.o
+ .bss           0x0080025c      0x404 obj/SDCardManager.o
+ .bss           0x00800660        0x3 obj/mmc_avr_spi.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800663        0x2 obj/MassStorageKeyboard.o
+                0x00800663                Timer
+ COMMON         0x00800665        0xe obj/Serial_AVR8.o
+                0x00800665                USARTSerialStream
+ COMMON         0x00800673        0x3 obj/DeviceStandardReq.o
+                0x00800673                USB_Device_ConfigurationNumber
+                0x00800674                USB_Device_CurrentlySelfPowered
+                0x00800675                USB_Device_RemoteWakeupEnabled
+ COMMON         0x00800676        0xa obj/USBTask.o
+                0x00800676                USB_IsInitialized
+                0x00800677                USB_DeviceState
+                0x00800678                USB_ControlRequest
+ COMMON         0x00800680        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x00800680                __iob
+                0x00800686                PROVIDE (__bss_end, .)
+                0x00003262                __data_load_start = LOADADDR (.data)
+                0x000033b6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800686        0x0
+                0x00800686                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800686                PROVIDE (__noinit_end, .)
+                0x00800686                _end = .
+                0x00800686                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6d8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x70 obj/MassStorageKeyboard.o
+ .debug_aranges
+                0x00000070       0x20 obj/Descriptors.o
+ .debug_aranges
+                0x00000090       0x48 obj/SDCardManager.o
+ .debug_aranges
+                0x000000d8       0x48 obj/diskio.o
+ .debug_aranges
+                0x00000120       0x88 obj/mmc_avr_spi.o
+ .debug_aranges
+                0x000001a8       0x28 obj/SCSI.o
+ .debug_aranges
+                0x000001d0       0x58 obj/Serial_AVR8.o
+ .debug_aranges
+                0x00000228       0x38 obj/HIDParser.o
+ .debug_aranges
+                0x00000260       0x20 obj/Device_AVR8.o
+ .debug_aranges
+                0x00000280       0xc8 obj/EndpointStream_AVR8.o
+ .debug_aranges
+                0x00000348       0x40 obj/Endpoint_AVR8.o
+ .debug_aranges
+                0x00000388       0x30 obj/USBController_AVR8.o
+ .debug_aranges
+                0x000003b8       0x38 obj/USBInterrupt_AVR8.o
+ .debug_aranges
+                0x000003f0       0x38 obj/ConfigDescriptors.o
+ .debug_aranges
+                0x00000428       0x20 obj/DeviceStandardReq.o
+ .debug_aranges
+                0x00000448       0x20 obj/Events.o
+ .debug_aranges
+                0x00000468       0x20 obj/USBTask.o
+ .debug_aranges
+                0x00000488       0x30 obj/AudioClassDevice.o
+ .debug_aranges
+                0x000004b8       0xa8 obj/CDCClassDevice.o
+ .debug_aranges
+                0x00000560       0x30 obj/HIDClassDevice.o
+ .debug_aranges
+                0x00000590       0x30 obj/MassStorageClassDevice.o
+ .debug_aranges
+                0x000005c0       0x40 obj/MIDIClassDevice.o
+ .debug_aranges
+                0x00000600       0x90 obj/PrinterClassDevice.o
+ .debug_aranges
+                0x00000690       0x48 obj/RNDISClassDevice.o
+
+.debug_pubnames
+                0x00000000     0x11e9
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x1a1 obj/MassStorageKeyboard.o
+ .debug_pubnames
+                0x000001a1       0xb1 obj/Descriptors.o
+ .debug_pubnames
+                0x00000252       0xd0 obj/SDCardManager.o
+ .debug_pubnames
+                0x00000322       0x75 obj/diskio.o
+ .debug_pubnames
+                0x00000397       0x8d obj/mmc_avr_spi.o
+ .debug_pubnames
+                0x00000424       0x2d obj/SCSI.o
+ .debug_pubnames
+                0x00000451       0xe4 obj/Serial_AVR8.o
+ .debug_pubnames
+                0x00000535       0x7e obj/HIDParser.o
+ .debug_pubnames
+                0x000005b3       0x32 obj/Device_AVR8.o
+ .debug_pubnames
+                0x000005e5      0x2df obj/EndpointStream_AVR8.o
+ .debug_pubnames
+                0x000008c4       0xaf obj/Endpoint_AVR8.o
+ .debug_pubnames
+                0x00000973       0x46 obj/USBController_AVR8.o
+ .debug_pubnames
+                0x000009b9       0x72 obj/USBInterrupt_AVR8.o
+ .debug_pubnames
+                0x00000a2b       0x9b obj/ConfigDescriptors.o
+ .debug_pubnames
+                0x00000ac6       0xa1 obj/DeviceStandardReq.o
+ .debug_pubnames
+                0x00000b67       0x25 obj/Events.o
+ .debug_pubnames
+                0x00000b8c       0x63 obj/USBTask.o
+ .debug_pubnames
+                0x00000bef       0x79 obj/AudioClassDevice.o
+ .debug_pubnames
+                0x00000c68      0x1c1 obj/CDCClassDevice.o
+ .debug_pubnames
+                0x00000e29       0x70 obj/HIDClassDevice.o
+ .debug_pubnames
+                0x00000e99       0x6d obj/MassStorageClassDevice.o
+ .debug_pubnames
+                0x00000f06       0xa6 obj/MIDIClassDevice.o
+ .debug_pubnames
+                0x00000fac      0x16d obj/PrinterClassDevice.o
+ .debug_pubnames
+                0x00001119       0xd0 obj/RNDISClassDevice.o
+
+.debug_info     0x00000000     0xb2c7
+ *(.debug_info)
+ .debug_info    0x00000000      0x9d4 obj/MassStorageKeyboard.o
+ .debug_info    0x000009d4      0x683 obj/Descriptors.o
+ .debug_info    0x00001057      0x9ce obj/SDCardManager.o
+ .debug_info    0x00001a25      0x237 obj/diskio.o
+ .debug_info    0x00001c5c      0x611 obj/mmc_avr_spi.o
+ .debug_info    0x0000226d      0xa20 obj/SCSI.o
+ .debug_info    0x00002c8d      0x487 obj/Serial_AVR8.o
+ .debug_info    0x00003114      0x6f2 obj/HIDParser.o
+ .debug_info    0x00003806       0xc4 obj/Device_AVR8.o
+ .debug_info    0x000038ca     0x15d4 obj/EndpointStream_AVR8.o
+ .debug_info    0x00004e9e      0x5f2 obj/Endpoint_AVR8.o
+ .debug_info    0x00005490       0x61 obj/Host_AVR8.o
+ .debug_info    0x000054f1       0x61 obj/PipeStream_AVR8.o
+ .debug_info    0x00005552       0x61 obj/Pipe_AVR8.o
+ .debug_info    0x000055b3      0x4aa obj/USBController_AVR8.o
+ .debug_info    0x00005a5d      0x6a7 obj/USBInterrupt_AVR8.o
+ .debug_info    0x00006104      0x34e obj/ConfigDescriptors.o
+ .debug_info    0x00006452      0x9d2 obj/DeviceStandardReq.o
+ .debug_info    0x00006e24       0x79 obj/Events.o
+ .debug_info    0x00006e9d       0x61 obj/HostStandardReq.o
+ .debug_info    0x00006efe      0x269 obj/USBTask.o
+ .debug_info    0x00007167      0x55e obj/AudioClassDevice.o
+ .debug_info    0x000076c5      0xca6 obj/CDCClassDevice.o
+ .debug_info    0x0000836b      0x62d obj/HIDClassDevice.o
+ .debug_info    0x00008998      0x7ca obj/MassStorageClassDevice.o
+ .debug_info    0x00009162      0x4d3 obj/MIDIClassDevice.o
+ .debug_info    0x00009635      0xacc obj/PrinterClassDevice.o
+ .debug_info    0x0000a101      0xe5d obj/RNDISClassDevice.o
+ .debug_info    0x0000af5e       0x61 obj/AndroidAccessoryClassHost.o
+ .debug_info    0x0000afbf       0x61 obj/AudioClassHost.o
+ .debug_info    0x0000b020       0x61 obj/CDCClassHost.o
+ .debug_info    0x0000b081       0x61 obj/HIDClassHost.o
+ .debug_info    0x0000b0e2       0x61 obj/MassStorageClassHost.o
+ .debug_info    0x0000b143       0x61 obj/MIDIClassHost.o
+ .debug_info    0x0000b1a4       0x61 obj/PrinterClassHost.o
+ .debug_info    0x0000b205       0x61 obj/RNDISClassHost.o
+ .debug_info    0x0000b266       0x61 obj/StillImageClassHost.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x2e8d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2e8 obj/MassStorageKeyboard.o
+ .debug_abbrev  0x000002e8      0x16c obj/Descriptors.o
+ .debug_abbrev  0x00000454      0x238 obj/SDCardManager.o
+ .debug_abbrev  0x0000068c       0xc9 obj/diskio.o
+ .debug_abbrev  0x00000755      0x23d obj/mmc_avr_spi.o
+ .debug_abbrev  0x00000992      0x298 obj/SCSI.o
+ .debug_abbrev  0x00000c2a      0x206 obj/Serial_AVR8.o
+ .debug_abbrev  0x00000e30      0x210 obj/HIDParser.o
+ .debug_abbrev  0x00001040       0x79 obj/Device_AVR8.o
+ .debug_abbrev  0x000010b9      0x1bb obj/EndpointStream_AVR8.o
+ .debug_abbrev  0x00001274      0x1fb obj/Endpoint_AVR8.o
+ .debug_abbrev  0x0000146f       0x33 obj/Host_AVR8.o
+ .debug_abbrev  0x000014a2       0x33 obj/PipeStream_AVR8.o
+ .debug_abbrev  0x000014d5       0x33 obj/Pipe_AVR8.o
+ .debug_abbrev  0x00001508      0x134 obj/USBController_AVR8.o
+ .debug_abbrev  0x0000163c      0x1e8 obj/USBInterrupt_AVR8.o
+ .debug_abbrev  0x00001824      0x15c obj/ConfigDescriptors.o
+ .debug_abbrev  0x00001980      0x256 obj/DeviceStandardReq.o
+ .debug_abbrev  0x00001bd6       0x4a obj/Events.o
+ .debug_abbrev  0x00001c20       0x33 obj/HostStandardReq.o
+ .debug_abbrev  0x00001c53      0x174 obj/USBTask.o
+ .debug_abbrev  0x00001dc7      0x170 obj/AudioClassDevice.o
+ .debug_abbrev  0x00001f37      0x320 obj/CDCClassDevice.o
+ .debug_abbrev  0x00002257      0x1b8 obj/HIDClassDevice.o
+ .debug_abbrev  0x0000240f      0x20f obj/MassStorageClassDevice.o
+ .debug_abbrev  0x0000261e      0x18b obj/MIDIClassDevice.o
+ .debug_abbrev  0x000027a9      0x262 obj/PrinterClassDevice.o
+ .debug_abbrev  0x00002a0b      0x2b7 obj/RNDISClassDevice.o
+ .debug_abbrev  0x00002cc2       0x33 obj/AndroidAccessoryClassHost.o
+ .debug_abbrev  0x00002cf5       0x33 obj/AudioClassHost.o
+ .debug_abbrev  0x00002d28       0x33 obj/CDCClassHost.o
+ .debug_abbrev  0x00002d5b       0x33 obj/HIDClassHost.o
+ .debug_abbrev  0x00002d8e       0x33 obj/MassStorageClassHost.o
+ .debug_abbrev  0x00002dc1       0x33 obj/MIDIClassHost.o
+ .debug_abbrev  0x00002df4       0x33 obj/PrinterClassHost.o
+ .debug_abbrev  0x00002e27       0x33 obj/RNDISClassHost.o
+ .debug_abbrev  0x00002e5a       0x33 obj/StillImageClassHost.o
+
+.debug_line     0x00000000     0x8a8b
+ *(.debug_line)
+ .debug_line    0x00000000      0x7c1 obj/MassStorageKeyboard.o
+ .debug_line    0x000007c1      0x200 obj/Descriptors.o
+ .debug_line    0x000009c1      0x792 obj/SDCardManager.o
+ .debug_line    0x00001153      0x15b obj/diskio.o
+ .debug_line    0x000012ae      0x73f obj/mmc_avr_spi.o
+ .debug_line    0x000019ed      0x415 obj/SCSI.o
+ .debug_line    0x00001e02      0x345 obj/Serial_AVR8.o
+ .debug_line    0x00002147      0x5a8 obj/HIDParser.o
+ .debug_line    0x000026ef      0x133 obj/Device_AVR8.o
+ .debug_line    0x00002822     0x180b obj/EndpointStream_AVR8.o
+ .debug_line    0x0000402d      0x53d obj/Endpoint_AVR8.o
+ .debug_line    0x0000456a       0x3e obj/Host_AVR8.o
+ .debug_line    0x000045a8       0x3e obj/PipeStream_AVR8.o
+ .debug_line    0x000045e6       0x3e obj/Pipe_AVR8.o
+ .debug_line    0x00004624      0x3b5 obj/USBController_AVR8.o
+ .debug_line    0x000049d9      0x64c obj/USBInterrupt_AVR8.o
+ .debug_line    0x00005025      0x24c obj/ConfigDescriptors.o
+ .debug_line    0x00005271      0x594 obj/DeviceStandardReq.o
+ .debug_line    0x00005805       0x86 obj/Events.o
+ .debug_line    0x0000588b       0x3e obj/HostStandardReq.o
+ .debug_line    0x000058c9      0x1b9 obj/USBTask.o
+ .debug_line    0x00005a82      0x4fe obj/AudioClassDevice.o
+ .debug_line    0x00005f80      0x9a0 obj/CDCClassDevice.o
+ .debug_line    0x00006920      0x5ba obj/HIDClassDevice.o
+ .debug_line    0x00006eda      0x5ba obj/MassStorageClassDevice.o
+ .debug_line    0x00007494      0x419 obj/MIDIClassDevice.o
+ .debug_line    0x000078ad      0x835 obj/PrinterClassDevice.o
+ .debug_line    0x000080e2      0x77b obj/RNDISClassDevice.o
+ .debug_line    0x0000885d       0x3e obj/AndroidAccessoryClassHost.o
+ .debug_line    0x0000889b       0x3e obj/AudioClassHost.o
+ .debug_line    0x000088d9       0x3e obj/CDCClassHost.o
+ .debug_line    0x00008917       0x3e obj/HIDClassHost.o
+ .debug_line    0x00008955       0x3e obj/MassStorageClassHost.o
+ .debug_line    0x00008993       0x3e obj/MIDIClassHost.o
+ .debug_line    0x000089d1       0x3e obj/PrinterClassHost.o
+ .debug_line    0x00008a0f       0x3e obj/RNDISClassHost.o
+ .debug_line    0x00008a4d       0x3e obj/StillImageClassHost.o
+
+.debug_frame    0x00000000      0xab0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xc0 obj/MassStorageKeyboard.o
+ .debug_frame   0x000000c0       0x20 obj/Descriptors.o
+ .debug_frame   0x000000e0       0x70 obj/SDCardManager.o
+ .debug_frame   0x00000150       0x70 obj/diskio.o
+ .debug_frame   0x000001c0       0xf0 obj/mmc_avr_spi.o
+ .debug_frame   0x000002b0       0x30 obj/SCSI.o
+ .debug_frame   0x000002e0       0x90 obj/Serial_AVR8.o
+ .debug_frame   0x00000370       0x50 obj/HIDParser.o
+ .debug_frame   0x000003c0       0x20 obj/Device_AVR8.o
+ .debug_frame   0x000003e0      0x170 obj/EndpointStream_AVR8.o
+ .debug_frame   0x00000550       0x60 obj/Endpoint_AVR8.o
+ .debug_frame   0x000005b0       0x40 obj/USBController_AVR8.o
+ .debug_frame   0x000005f0       0x50 obj/USBInterrupt_AVR8.o
+ .debug_frame   0x00000640       0x50 obj/ConfigDescriptors.o
+ .debug_frame   0x00000690       0x20 obj/DeviceStandardReq.o
+ .debug_frame   0x000006b0       0x20 obj/Events.o
+ .debug_frame   0x000006d0       0x20 obj/USBTask.o
+ .debug_frame   0x000006f0       0x40 obj/AudioClassDevice.o
+ .debug_frame   0x00000730      0x130 obj/CDCClassDevice.o
+ .debug_frame   0x00000860       0x40 obj/HIDClassDevice.o
+ .debug_frame   0x000008a0       0x40 obj/MassStorageClassDevice.o
+ .debug_frame   0x000008e0       0x60 obj/MIDIClassDevice.o
+ .debug_frame   0x00000940      0x100 obj/PrinterClassDevice.o
+ .debug_frame   0x00000a40       0x70 obj/RNDISClassDevice.o
+
+.debug_str      0x00000000     0x424c
+ *(.debug_str)
+ .debug_str     0x00000000      0x6b8 obj/MassStorageKeyboard.o
+                                0x768 (size before relaxing)
+ .debug_str     0x000006b8      0x53b obj/Descriptors.o
+                                0x6f8 (size before relaxing)
+ .debug_str     0x00000bf3      0x2ab obj/SDCardManager.o
+                                0x573 (size before relaxing)
+ .debug_str     0x00000e9e       0x6a obj/diskio.o
+                                0x1cc (size before relaxing)
+ .debug_str     0x00000f08      0x131 obj/mmc_avr_spi.o
+                                0x2cb (size before relaxing)
+ .debug_str     0x00001039      0x2da obj/SCSI.o
+                                0x60d (size before relaxing)
+ .debug_str     0x00001313      0x171 obj/Serial_AVR8.o
+                                0x2d4 (size before relaxing)
+ .debug_str     0x00001484      0x468 obj/HIDParser.o
+                                0x631 (size before relaxing)
+ .debug_str     0x000018ec       0x7d obj/Device_AVR8.o
+                                0x18c (size before relaxing)
+ .debug_str     0x00001969      0x5e7 obj/EndpointStream_AVR8.o
+                                0x7ba (size before relaxing)
+ .debug_str     0x00001f50      0x2f4 obj/Endpoint_AVR8.o
+                                0x5b6 (size before relaxing)
+ .debug_str     0x00002244       0x33 obj/Host_AVR8.o
+                                0x13c (size before relaxing)
+ .debug_str     0x00002277       0x39 obj/PipeStream_AVR8.o
+                                0x142 (size before relaxing)
+ .debug_str     0x000022b0       0x33 obj/Pipe_AVR8.o
+                                0x13c (size before relaxing)
+ .debug_str     0x000022e3      0x1d1 obj/USBController_AVR8.o
+                                0x49e (size before relaxing)
+ .debug_str     0x000024b4      0x12c obj/USBInterrupt_AVR8.o
+                                0x499 (size before relaxing)
+ .debug_str     0x000025e0      0x223 obj/ConfigDescriptors.o
+                                0x35a (size before relaxing)
+ .debug_str     0x00002803      0x408 obj/DeviceStandardReq.o
+                                0x88a (size before relaxing)
+ .debug_str     0x00002c0b       0x3a obj/Events.o
+                                0x143 (size before relaxing)
+ .debug_str     0x00002c45       0x34 obj/HostStandardReq.o
+                                0x13d (size before relaxing)
+ .debug_str     0x00002c79       0x54 obj/USBTask.o
+                                0x2fa (size before relaxing)
+ .debug_str     0x00002ccd      0x256 obj/AudioClassDevice.o
+                                0x57a (size before relaxing)
+ .debug_str     0x00002f23      0x3c8 obj/CDCClassDevice.o
+                                0x95c (size before relaxing)
+ .debug_str     0x000032eb      0x151 obj/HIDClassDevice.o
+                                0x5a9 (size before relaxing)
+ .debug_str     0x0000343c      0x178 obj/MassStorageClassDevice.o
+                                0x70a (size before relaxing)
+ .debug_str     0x000035b4      0x11e obj/MIDIClassDevice.o
+                                0x5a8 (size before relaxing)
+ .debug_str     0x000036d2      0x272 obj/PrinterClassDevice.o
+                                0x842 (size before relaxing)
+ .debug_str     0x00003944      0x6f4 obj/RNDISClassDevice.o
+                                0xc51 (size before relaxing)
+ .debug_str     0x00004038       0x44 obj/AndroidAccessoryClassHost.o
+                                0x14d (size before relaxing)
+ .debug_str     0x0000407c       0x39 obj/AudioClassHost.o
+                                0x142 (size before relaxing)
+ .debug_str     0x000040b5       0x37 obj/CDCClassHost.o
+                                0x140 (size before relaxing)
+ .debug_str     0x000040ec       0x37 obj/HIDClassHost.o
+                                0x140 (size before relaxing)
+ .debug_str     0x00004123       0x3f obj/MassStorageClassHost.o
+                                0x148 (size before relaxing)
+ .debug_str     0x00004162       0x38 obj/MIDIClassHost.o
+                                0x141 (size before relaxing)
+ .debug_str     0x0000419a       0x3b obj/PrinterClassHost.o
+                                0x144 (size before relaxing)
+ .debug_str     0x000041d5       0x39 obj/RNDISClassHost.o
+                                0x142 (size before relaxing)
+ .debug_str     0x0000420e       0x3e obj/StillImageClassHost.o
+                                0x147 (size before relaxing)
+
+.debug_loc      0x00000000     0x4720
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xd3 obj/MassStorageKeyboard.o
+ .debug_loc     0x000000d3      0x1a0 obj/Descriptors.o
+ .debug_loc     0x00000273      0x170 obj/SDCardManager.o
+ .debug_loc     0x000003e3      0x1c9 obj/diskio.o
+ .debug_loc     0x000005ac      0x721 obj/mmc_avr_spi.o
+ .debug_loc     0x00000ccd      0x25a obj/SCSI.o
+ .debug_loc     0x00000f27      0x13e obj/Serial_AVR8.o
+ .debug_loc     0x00001065      0x560 obj/HIDParser.o
+ .debug_loc     0x000015c5     0x182a obj/EndpointStream_AVR8.o
+ .debug_loc     0x00002def      0x11c obj/Endpoint_AVR8.o
+ .debug_loc     0x00002f0b      0x2c7 obj/ConfigDescriptors.o
+ .debug_loc     0x000031d2      0x23c obj/DeviceStandardReq.o
+ .debug_loc     0x0000340e      0x25d obj/AudioClassDevice.o
+ .debug_loc     0x0000366b      0x524 obj/CDCClassDevice.o
+ .debug_loc     0x00003b8f      0x141 obj/HIDClassDevice.o
+ .debug_loc     0x00003cd0       0x96 obj/MassStorageClassDevice.o
+ .debug_loc     0x00003d66      0x19a obj/MIDIClassDevice.o
+ .debug_loc     0x00003f00      0x3bc obj/PrinterClassDevice.o
+ .debug_loc     0x000042bc      0x464 obj/RNDISClassDevice.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(MassStorageKeyboard.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x7b0
+ .debug_ranges  0x00000000       0x68 obj/MassStorageKeyboard.o
+ .debug_ranges  0x00000068       0x18 obj/Descriptors.o
+ .debug_ranges  0x00000080       0x40 obj/SDCardManager.o
+ .debug_ranges  0x000000c0       0x40 obj/diskio.o
+ .debug_ranges  0x00000100       0x80 obj/mmc_avr_spi.o
+ .debug_ranges  0x00000180       0x20 obj/SCSI.o
+ .debug_ranges  0x000001a0       0x68 obj/Serial_AVR8.o
+ .debug_ranges  0x00000208       0xa0 obj/HIDParser.o
+ .debug_ranges  0x000002a8       0x18 obj/Device_AVR8.o
+ .debug_ranges  0x000002c0       0xc0 obj/EndpointStream_AVR8.o
+ .debug_ranges  0x00000380       0x50 obj/Endpoint_AVR8.o
+ .debug_ranges  0x000003d0       0x28 obj/USBController_AVR8.o
+ .debug_ranges  0x000003f8       0x30 obj/USBInterrupt_AVR8.o
+ .debug_ranges  0x00000428       0x30 obj/ConfigDescriptors.o
+ .debug_ranges  0x00000458       0x78 obj/DeviceStandardReq.o
+ .debug_ranges  0x000004d0       0x18 obj/Events.o
+ .debug_ranges  0x000004e8       0x18 obj/USBTask.o
+ .debug_ranges  0x00000500       0x28 obj/AudioClassDevice.o
+ .debug_ranges  0x00000528       0xa0 obj/CDCClassDevice.o
+ .debug_ranges  0x000005c8       0x28 obj/HIDClassDevice.o
+ .debug_ranges  0x000005f0       0x78 obj/MassStorageClassDevice.o
+ .debug_ranges  0x00000668       0x38 obj/MIDIClassDevice.o
+ .debug_ranges  0x000006a0       0x88 obj/PrinterClassDevice.o
+ .debug_ranges  0x00000728       0x88 obj/RNDISClassDevice.o
+
+Cross Reference Table
+
+Symbol                                            File
+Audio_Device_ConfigureEndpoints                   obj/AudioClassDevice.o
+Audio_Device_Event_Stub                           obj/AudioClassDevice.o
+Audio_Device_ProcessControlRequest                obj/AudioClassDevice.o
+CALLBACK_Audio_Device_GetSetEndpointProperty      obj/AudioClassDevice.o
+CALLBACK_Audio_Device_GetSetInterfaceProperty     obj/AudioClassDevice.o
+CALLBACK_HIDParser_FilterHIDReportItem            obj/HIDParser.o
+CALLBACK_HID_Device_CreateHIDReport               obj/MassStorageKeyboard.o
+                                                  obj/HIDClassDevice.o
+CALLBACK_HID_Device_ProcessHIDReport              obj/MassStorageKeyboard.o
+                                                  obj/HIDClassDevice.o
+CALLBACK_MS_Device_SCSICommandReceived            obj/MassStorageKeyboard.o
+                                                  obj/MassStorageClassDevice.o
+CALLBACK_USB_GetDescriptor                        obj/Descriptors.o
+                                                  obj/DeviceStandardReq.o
+CDC_Device_BytesReceived                          obj/CDCClassDevice.o
+CDC_Device_ConfigureEndpoints                     obj/CDCClassDevice.o
+CDC_Device_CreateBlockingStream                   obj/CDCClassDevice.o
+CDC_Device_CreateStream                           obj/CDCClassDevice.o
+CDC_Device_Event_Stub                             obj/CDCClassDevice.o
+CDC_Device_Flush                                  obj/CDCClassDevice.o
+CDC_Device_ProcessControlRequest                  obj/CDCClassDevice.o
+CDC_Device_ReceiveByte                            obj/CDCClassDevice.o
+CDC_Device_SendByte                               obj/CDCClassDevice.o
+CDC_Device_SendControlLineStateChange             obj/CDCClassDevice.o
+CDC_Device_SendData                               obj/CDCClassDevice.o
+CDC_Device_SendData_P                             obj/CDCClassDevice.o
+CDC_Device_SendString                             obj/CDCClassDevice.o
+CDC_Device_SendString_P                           obj/CDCClassDevice.o
+CDC_Device_USBTask                                obj/CDCClassDevice.o
+ConfigurationDescriptor                           obj/Descriptors.o
+DeviceDescriptor                                  obj/Descriptors.o
+Disk_MS_Interface                                 obj/MassStorageKeyboard.o
+EVENT_Audio_Device_StreamStartStop                obj/AudioClassDevice.o
+EVENT_CDC_Device_BreakSent                        obj/CDCClassDevice.o
+EVENT_CDC_Device_ControLineStateChanged           obj/CDCClassDevice.o
+EVENT_CDC_Device_LineEncodingChanged              obj/CDCClassDevice.o
+EVENT_PRNT_Device_SoftReset                       obj/PrinterClassDevice.o
+EVENT_USB_Device_ConfigurationChanged             obj/MassStorageKeyboard.o
+                                                  obj/DeviceStandardReq.o
+EVENT_USB_Device_Connect                          obj/MassStorageKeyboard.o
+                                                  obj/USBInterrupt_AVR8.o
+EVENT_USB_Device_ControlRequest                   obj/MassStorageKeyboard.o
+                                                  obj/DeviceStandardReq.o
+EVENT_USB_Device_Disconnect                       obj/MassStorageKeyboard.o
+                                                  obj/USBInterrupt_AVR8.o
+EVENT_USB_Device_Reset                            obj/Events.o
+                                                  obj/USBInterrupt_AVR8.o
+EVENT_USB_Device_StartOfFrame                     obj/MassStorageKeyboard.o
+                                                  obj/USBInterrupt_AVR8.o
+EVENT_USB_Device_Suspend                          obj/Events.o
+                                                  obj/USBInterrupt_AVR8.o
+EVENT_USB_Device_WakeUp                           obj/Events.o
+                                                  obj/USBInterrupt_AVR8.o
+Endpoint_ClearEndpoints                           obj/Endpoint_AVR8.o
+Endpoint_ClearStatusStage                         obj/Endpoint_AVR8.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/AudioClassDevice.o
+                                                  obj/DeviceStandardReq.o
+Endpoint_ConfigureEndpointTable                   obj/Endpoint_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MIDIClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/AudioClassDevice.o
+Endpoint_ConfigureEndpoint_Prv                    obj/Endpoint_AVR8.o
+                                                  obj/USBInterrupt_AVR8.o
+                                                  obj/USBController_AVR8.o
+Endpoint_Discard_Stream                           obj/EndpointStream_AVR8.o
+Endpoint_Null_Stream                              obj/EndpointStream_AVR8.o
+                                                  obj/SCSI.o
+Endpoint_Read_Control_EStream_BE                  obj/EndpointStream_AVR8.o
+Endpoint_Read_Control_EStream_LE                  obj/EndpointStream_AVR8.o
+Endpoint_Read_Control_Stream_BE                   obj/EndpointStream_AVR8.o
+Endpoint_Read_Control_Stream_LE                   obj/EndpointStream_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/AudioClassDevice.o
+Endpoint_Read_EStream_BE                          obj/EndpointStream_AVR8.o
+Endpoint_Read_EStream_LE                          obj/EndpointStream_AVR8.o
+Endpoint_Read_Stream_BE                           obj/EndpointStream_AVR8.o
+Endpoint_Read_Stream_LE                           obj/EndpointStream_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/MIDIClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+Endpoint_WaitUntilReady                           obj/Endpoint_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MIDIClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/EndpointStream_AVR8.o
+                                                  obj/SDCardManager.o
+Endpoint_Write_Control_EStream_BE                 obj/EndpointStream_AVR8.o
+Endpoint_Write_Control_EStream_LE                 obj/EndpointStream_AVR8.o
+Endpoint_Write_Control_PStream_BE                 obj/EndpointStream_AVR8.o
+Endpoint_Write_Control_PStream_LE                 obj/EndpointStream_AVR8.o
+                                                  obj/DeviceStandardReq.o
+Endpoint_Write_Control_Stream_BE                  obj/EndpointStream_AVR8.o
+Endpoint_Write_Control_Stream_LE                  obj/EndpointStream_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/AudioClassDevice.o
+                                                  obj/DeviceStandardReq.o
+Endpoint_Write_EStream_BE                         obj/EndpointStream_AVR8.o
+Endpoint_Write_EStream_LE                         obj/EndpointStream_AVR8.o
+Endpoint_Write_PStream_BE                         obj/EndpointStream_AVR8.o
+Endpoint_Write_PStream_LE                         obj/EndpointStream_AVR8.o
+                                                  obj/CDCClassDevice.o
+Endpoint_Write_Stream_BE                          obj/EndpointStream_AVR8.o
+                                                  obj/SCSI.o
+Endpoint_Write_Stream_LE                          obj/EndpointStream_AVR8.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MIDIClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/SCSI.o
+HID_Device_ConfigureEndpoints                     obj/HIDClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+HID_Device_ProcessControlRequest                  obj/HIDClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+HID_Device_USBTask                                obj/HIDClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+KeyboardReport                                    obj/Descriptors.o
+Keyboard_HID_Interface                            obj/MassStorageKeyboard.o
+LanguageString                                    obj/Descriptors.o
+MIDI_Device_ConfigureEndpoints                    obj/MIDIClassDevice.o
+MIDI_Device_Flush                                 obj/MIDIClassDevice.o
+MIDI_Device_ReceiveEventPacket                    obj/MIDIClassDevice.o
+MIDI_Device_SendEventPacket                       obj/MIDIClassDevice.o
+MIDI_Device_USBTask                               obj/MIDIClassDevice.o
+MS_Device_ConfigureEndpoints                      obj/MassStorageClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+MS_Device_ProcessControlRequest                   obj/MassStorageClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+MS_Device_USBTask                                 obj/MassStorageClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+ManufacturerString                                obj/Descriptors.o
+PRNT_Device_BytesReceived                         obj/PrinterClassDevice.o
+PRNT_Device_ConfigureEndpoints                    obj/PrinterClassDevice.o
+PRNT_Device_CreateBlockingStream                  obj/PrinterClassDevice.o
+PRNT_Device_CreateStream                          obj/PrinterClassDevice.o
+PRNT_Device_Event_Stub                            obj/PrinterClassDevice.o
+PRNT_Device_Flush                                 obj/PrinterClassDevice.o
+PRNT_Device_ProcessControlRequest                 obj/PrinterClassDevice.o
+PRNT_Device_ReceiveByte                           obj/PrinterClassDevice.o
+PRNT_Device_SendByte                              obj/PrinterClassDevice.o
+PRNT_Device_SendData                              obj/PrinterClassDevice.o
+PRNT_Device_SendString                            obj/PrinterClassDevice.o
+PRNT_Device_USBTask                               obj/PrinterClassDevice.o
+ProductString                                     obj/Descriptors.o
+RNDIS_Device_ConfigureEndpoints                   obj/RNDISClassDevice.o
+RNDIS_Device_IsPacketReceived                     obj/RNDISClassDevice.o
+RNDIS_Device_ProcessControlRequest                obj/RNDISClassDevice.o
+RNDIS_Device_ReadPacket                           obj/RNDISClassDevice.o
+RNDIS_Device_SendPacket                           obj/RNDISClassDevice.o
+RNDIS_Device_USBTask                              obj/RNDISClassDevice.o
+SCSI_DecodeSCSICommand                            obj/SCSI.o
+                                                  obj/MassStorageKeyboard.o
+SDCardManager_CheckDataflashOperation             obj/SDCardManager.o
+                                                  obj/SCSI.o
+SDCardManager_GetNbBlocks                         obj/SDCardManager.o
+                                                  obj/SCSI.o
+SDCardManager_Init                                obj/SDCardManager.o
+                                                  obj/MassStorageKeyboard.o
+SDCardManager_ReadBlocks                          obj/SDCardManager.o
+                                                  obj/SCSI.o
+SDCardManager_WriteBlockHandler                   obj/SDCardManager.o
+SDCardManager_WriteBlocks                         obj/SDCardManager.o
+                                                  obj/SCSI.o
+Serial_CreateBlockingStream                       obj/Serial_AVR8.o
+Serial_CreateStream                               obj/Serial_AVR8.o
+                                                  obj/MassStorageKeyboard.o
+Serial_SendData                                   obj/Serial_AVR8.o
+Serial_SendString                                 obj/Serial_AVR8.o
+                                                  obj/MassStorageKeyboard.o
+Serial_SendString_P                               obj/Serial_AVR8.o
+Serial_getchar                                    obj/Serial_AVR8.o
+Serial_getchar_Blocking                           obj/Serial_AVR8.o
+Serial_putchar                                    obj/Serial_AVR8.o
+SetupHardware                                     obj/MassStorageKeyboard.o
+Timer                                             obj/MassStorageKeyboard.o
+USARTSerialStream                                 obj/Serial_AVR8.o
+USB_ControlRequest                                obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/AudioClassDevice.o
+                                                  obj/USBTask.o
+                                                  obj/DeviceStandardReq.o
+                                                  obj/Endpoint_AVR8.o
+                                                  obj/EndpointStream_AVR8.o
+USB_DeviceState                                   obj/RNDISClassDevice.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/MIDIClassDevice.o
+                                                  obj/MassStorageClassDevice.o
+                                                  obj/HIDClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/USBTask.o
+                                                  obj/DeviceStandardReq.o
+                                                  obj/USBInterrupt_AVR8.o
+                                                  obj/USBController_AVR8.o
+                                                  obj/Endpoint_AVR8.o
+                                                  obj/EndpointStream_AVR8.o
+USB_Device_ConfigurationNumber                    obj/DeviceStandardReq.o
+                                                  obj/USBInterrupt_AVR8.o
+                                                  obj/USBController_AVR8.o
+USB_Device_CurrentlySelfPowered                   obj/DeviceStandardReq.o
+                                                  obj/USBController_AVR8.o
+USB_Device_ProcessControlRequest                  obj/DeviceStandardReq.o
+                                                  obj/USBTask.o
+                                                  obj/USBInterrupt_AVR8.o
+USB_Device_RemoteWakeupEnabled                    obj/DeviceStandardReq.o
+                                                  obj/USBController_AVR8.o
+USB_Device_SendRemoteWakeup                       obj/Device_AVR8.o
+USB_Disable                                       obj/USBController_AVR8.o
+USB_Event_Stub                                    obj/Events.o
+USB_GetHIDReportItemInfo                          obj/HIDParser.o
+USB_GetHIDReportSize                              obj/HIDParser.o
+USB_GetNextDescriptorComp                         obj/ConfigDescriptors.o
+USB_GetNextDescriptorOfType                       obj/ConfigDescriptors.o
+USB_GetNextDescriptorOfTypeAfter                  obj/ConfigDescriptors.o
+USB_GetNextDescriptorOfTypeBefore                 obj/ConfigDescriptors.o
+USB_INT_ClearAllInterrupts                        obj/USBInterrupt_AVR8.o
+                                                  obj/USBController_AVR8.o
+USB_INT_DisableAllInterrupts                      obj/USBInterrupt_AVR8.o
+                                                  obj/USBController_AVR8.o
+USB_Init                                          obj/USBController_AVR8.o
+                                                  obj/MassStorageKeyboard.o
+USB_IsInitialized                                 obj/USBTask.o
+                                                  obj/USBController_AVR8.o
+USB_ProcessHIDReport                              obj/HIDParser.o
+USB_ResetInterface                                obj/USBController_AVR8.o
+USB_SetHIDReportItemInfo                          obj/HIDParser.o
+USB_USBTask                                       obj/USBTask.o
+                                                  obj/PrinterClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/MassStorageKeyboard.o
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                                                  obj/USBTask.o
+                                                  obj/DeviceStandardReq.o
+                                                  obj/Serial_AVR8.o
+                                                  obj/mmc_avr_spi.o
+                                                  obj/SDCardManager.o
+                                                  obj/MassStorageKeyboard.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+                                                  obj/RNDISClassDevice.o
+                                                  obj/CDCClassDevice.o
+                                                  obj/SCSI.o
+                                                  obj/mmc_avr_spi.o
+                                                  obj/MassStorageKeyboard.o
+__eerd_byte_usb1287                               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_at90usb1287.o)
+                                                  obj/EndpointStream_AVR8.o
+__eeupd_byte_usb1287                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+                                                  obj/EndpointStream_AVR8.o
+__eeupd_r18_usb1287                               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eeupd_byte_at90usb1287.o)
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__iob                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                                                  obj/Serial_AVR8.o
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                                                  obj/mmc_avr_spi.o
+__ultoa_invert                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+__vector_1                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_10                                       obj/USBInterrupt_AVR8.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_11                                       obj/USBInterrupt_AVR8.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_13                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_16                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_17                                       obj/MassStorageKeyboard.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_19                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_2                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_21                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_22                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_23                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_24                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_25                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_26                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_27                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_28                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_29                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_3                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_30                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_31                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_32                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_33                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_34                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_35                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_36                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_37                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_4                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_5                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_7                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_9                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+disk_initialize                                   obj/diskio.o
+                                                  obj/SDCardManager.o
+disk_ioctl                                        obj/diskio.o
+                                                  obj/SDCardManager.o
+disk_read                                         obj/diskio.o
+                                                  obj/SDCardManager.o
+disk_status                                       obj/diskio.o
+disk_timerproc                                    obj/diskio.o
+                                                  obj/MassStorageKeyboard.o
+disk_write                                        obj/diskio.o
+                                                  obj/SDCardManager.o
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+fputc                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+main                                              obj/MassStorageKeyboard.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1287.o
+memcmp                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcmp.o)
+                                                  obj/HIDClassDevice.o
+memcpy                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                                                  obj/RNDISClassDevice.o
+                                                  obj/HIDClassDevice.o
+memcpy_P                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+                                                  obj/RNDISClassDevice.o
+memset                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(memset.o)
+                                                  obj/HIDClassDevice.o
+mmc_disk_initialize                               obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+mmc_disk_ioctl                                    obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+mmc_disk_read                                     obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+mmc_disk_status                                   obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+mmc_disk_timerproc                                obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+mmc_disk_write                                    obj/mmc_avr_spi.o
+                                                  obj/diskio.o
+printf_P                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
+                                                  obj/SDCardManager.o
+                                                  obj/MassStorageKeyboard.o
+puts                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                                                  obj/MassStorageKeyboard.o
+strlen_P                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strlen_P.o)
+                                                  obj/CDCClassDevice.o
+strnlen                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+strnlen_P                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+vfprintf                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf_p.o)
