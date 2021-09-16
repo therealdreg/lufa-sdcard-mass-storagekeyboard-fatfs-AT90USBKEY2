@@ -1,3 +1,7 @@
+evil mass storage *AT90USBKEY2 (poc-malware-tool for offline system): 
+
+https://github.com/David-Reguera-Garcia-Dreg/evilmass_at90usbkey2/
+
 Just my own adaptation for mass storage sd card and keyboard for AT90USBKEY2.
 
 https://www.avrfreaks.net/forum/mass-storage-sd-card-and-keyboard-at90usbkey2
