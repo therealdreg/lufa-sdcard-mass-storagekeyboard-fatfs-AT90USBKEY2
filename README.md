@@ -1,3 +1,5 @@
+**WARNING: btw, CORSAIR KEYBOARD can cause problems with ATMEL ICE, put the keyboard in BIOS MODE**
+
 evil mass storage *AT90USBKEY2 (poc-malware-tool for offline system): 
 
 https://github.com/David-Reguera-Garcia-Dreg/evilmass_at90usbkey2/
