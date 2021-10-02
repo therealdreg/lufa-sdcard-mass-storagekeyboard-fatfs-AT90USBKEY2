@@ -6,6 +6,10 @@ Just my own adaptation for mass storage sd card and keyboard for AT90USBKEY2.
 
 https://www.avrfreaks.net/forum/mass-storage-sd-card-and-keyboard-at90usbkey2
 
+Original sources and programs for AT90USBKEY2 + own code & patches:
+
+  * https://github.com/David-Reguera-Garcia-Dreg/AT90USBKEY2
+
 FatFS + TTL UART + MICRO SD + ATMEL ICE JTAG DEBUGGING
 
 ![](jtag_and_uart.jpg)
