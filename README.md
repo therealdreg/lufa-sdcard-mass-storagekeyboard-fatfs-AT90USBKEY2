@@ -12,6 +12,10 @@ Original sources and programs for AT90USBKEY2 + own code & patches:
 
   * https://github.com/David-Reguera-Garcia-Dreg/AT90USBKEY2
 
+my pull request adding new ClassDriver MassStorageSDKeyboard Demo for LUFA - the Lightweight USB Framework for AVRs:
+
+  * https://github.com/abcminiuser/lufa/pull/158
+
 FatFS + TTL UART + MICRO SD + ATMEL ICE JTAG DEBUGGING
 
 ![](jtag_and_uart.jpg)
