@@ -21,32 +21,24 @@ I dont have the correct AT90USBKEY2 pins... but I have leds + clips + tin
 ![](clips_leds.jpg)
 
 ported from Mathieu Sonet lufa-sdcard-mass-storage-demo USB Mass storage on SD card with a Teensy2/ATMEGA32U4 to AT90USBKEY2
-
-https://bitbucket.org/elasticsheep/lufa-sdcard-mass-storage-demo/src/default/ 
+  * https://bitbucket.org/elasticsheep/lufa-sdcard-mass-storage-demo/src/default/ 
 
 ported from LUFA091223 to LUFA170418
-
-http://www.fourwalledcubicle.com/LUFA.php
+  * http://www.fourwalledcubicle.com/LUFA.php
 
 ported from MMC/SD/SDHC card reader library to FatFS: 
-
-http://www.roland-riegel.de/sd-reader/index.html 
-
-http://elm-chan.org/fsw/ff/00index_e.html
+  * http://www.roland-riegel.de/sd-reader/index.html 
+  * http://elm-chan.org/fsw/ff/00index_e.html
 
 There are two demo projects: 
+1. LUFA standard DEMO project: lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard
+  * Already compiled .hex: 
+    * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex
 
-- LUFA standard DEMO project: lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard
-
-Already compiled .hex: 
-
-  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex
-
-- Atmel Studio 7 project (for user-friendly JTAG debug): lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel.atsln
-
-Already compiled .hex: 
-  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex
-  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex
+2. Atmel Studio 7 project (for user-friendly JTAG debug): lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel.atsln
+  * Already compiled .hex: 
+    * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex
+    * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex
 
 --
 
