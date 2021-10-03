@@ -2,11 +2,11 @@
 
 evil mass storage *AT90USBKEY2 (poc-malware-tool for offline system): 
 
-https://github.com/David-Reguera-Garcia-Dreg/evilmass_at90usbkey2/
+  * https://github.com/David-Reguera-Garcia-Dreg/evilmass_at90usbkey2/
 
 Just my own adaptation for mass storage sd card and keyboard for AT90USBKEY2.
 
-https://www.avrfreaks.net/forum/mass-storage-sd-card-and-keyboard-at90usbkey2
+  * https://www.avrfreaks.net/forum/mass-storage-sd-card-and-keyboard-at90usbkey2
 
 Original sources and programs for AT90USBKEY2 + own code & patches:
 
@@ -40,15 +40,13 @@ There are two demo projects: 
 
 Already compiled .hex: 
 
-lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex
+  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex
 
 - Atmel Studio 7 project (for user-friendly JTAG debug): lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel.atsln
 
 Already compiled .hex: 
-
-lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex
-
-lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex
+  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex
+  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex
 
 --
 
