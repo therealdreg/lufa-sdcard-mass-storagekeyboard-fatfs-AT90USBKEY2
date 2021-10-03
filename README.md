@@ -33,11 +33,11 @@ ported from MMC/SD/SDHC card reader library to FatFS:
 There are two demo projects: 
 
 1. LUFA standard DEMO project: lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard
-  * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex
+    * **lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\Demos\Device\ClassDriver\MassStorageKeyboard\MassStorageKeyboard.hex**
 
 2. Atmel Studio 7 project (for user-friendly JTAG debug): lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel.atsln
-    * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex
-    * lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex
+    * **lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Debug\mass_storagesd_keyboard_atmel.hex**
+    * **lufa-sdcard-mass-storagekeyboard-fatfs-AT90USBKEY2\mass_storagesd_keyboard_atmel\mass_storagesd_keyboard_atmel\Release\mass_storagesd_keyboard_atmel.hex**
 
 --
 
